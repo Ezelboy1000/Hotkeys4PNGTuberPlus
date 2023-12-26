@@ -1,0 +1,11 @@
+﻿SetTitleMatchMode 3
+Numpad1::ControlSend "{1 down}{1 up}",,"PNGTuberPlus"
+Numpad2::ControlSend "{2 down}{2 up}",,"PNGTuberPlus"
+Numpad3::ControlSend "{3 down}{3 up}",,"PNGTuberPlus"
+Numpad4::ControlSend "{4 down}{4 up}",,"PNGTuberPlus"
+Numpad5::ControlSend "{5 down}{5 up}",,"PNGTuberPlus"
+Numpad6::ControlSend "{6 down}{6 up}",,"PNGTuberPlus"
+Numpad7::ControlSend "{7 down}{7 up}",,"PNGTuberPlus"
+Numpad8::ControlSend "{8 down}{8 up}",,"PNGTuberPlus"
+Numpad9::ControlSend "{9 down}{9 up}",,"PNGTuberPlus"
+Numpad0::ControlSend "{0 down}{0 up}",,"PNGTuberPlus"
